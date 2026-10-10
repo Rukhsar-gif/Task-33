@@ -71,7 +71,7 @@ Includes a form for entering a name, email address, and message. JavaScript vali
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/Rukhsar-gif/Task-33>
 ```
 
 ### 2. Open the Project Folder
